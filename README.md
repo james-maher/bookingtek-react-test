@@ -12,6 +12,8 @@ If you see a node-sass binding error after running `npm install` then try runnin
 
 `npm start`
 
+Should be served on `localhost:9000`
+
 ### Instructions
 
 The idea is to display a set of data nicely on a web page. There is a service in the app which when called will return a json object of zipcode information (Not really calling anything - just returning data from zips.json). This data must be displayed on the Zipcode page in a list so that all the information is easily readable.
